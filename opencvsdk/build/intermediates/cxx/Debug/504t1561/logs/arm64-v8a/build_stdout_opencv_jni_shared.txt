@@ -1,0 +1,2 @@
+ninja: Entering directory `D:\frrss\opencvsdk\.cxx\Debug\504t1561\arm64-v8a'
+ninja: no work to do.

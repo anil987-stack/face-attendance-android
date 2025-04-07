@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "26947578181",
+    "firebase_url": "https://trip---gaadi-anytime-default-rtdb.firebaseio.com",
+    "project_id": "trip---gaadi-anytime",
+    "storage_bucket": "trip---gaadi-anytime.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26947578181:android:194125df310e71c687762c",
+        "android_client_info": {
+          "package_name": "com.trip_driver"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1RP0wZT3ifrlaJntA0_uzLqsaCaX8mK8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26947578181:android:45535d7ba91a305b87762c",
+        "android_client_info": {
+          "package_name": "com.trip_user"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1RP0wZT3ifrlaJntA0_uzLqsaCaX8mK8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
